@@ -1,4 +1,4 @@
-ff-guild-glory-bot/
+3030795063ff-guild-glory-bot/
 │── index.js
 │── package.json   ✅
 │── guild.json
